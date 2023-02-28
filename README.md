@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Mern-Stack Project
 <img src="view.png">
 
 ## Available Scripts
