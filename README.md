@@ -6,7 +6,7 @@ In the project directory, you can run:<br>
 
 <h2>npm start</h2><br>
 Runs the app in the development mode.<br>
-Open <link>http://localhost:3000</link> to view it in the browser.<br>
+Open <link>http://localhost:3000<link> to view it in the browser.<br>
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.<br>
